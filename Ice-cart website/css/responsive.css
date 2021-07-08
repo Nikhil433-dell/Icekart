@@ -1,0 +1,113 @@
+@media screen and (max-width:1400px) {
+    nav ul{
+        height: 6vh;
+        width: 103%;
+    }
+
+    footer{
+        width: 103%;
+    }
+
+    .ice{
+        width: 103%;
+    }
+
+    .search{
+        height: 3vh;
+    }
+    .btn{
+        height: 3vh;
+    }
+
+
+    .login{
+        left: 12vw;
+    }
+    .choco{
+        border-radius: 0px;
+        height: 10vh;
+    }
+    .amul{
+        left: 25vw;
+    }
+    .wikiamul{
+        bottom: 0px;
+        margin-top: 10px;
+        width: 90vw;
+        margin-bottom: 15px;
+    }
+    .blue{
+        bottom: 50vh;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .mainimg{
+        width: 80vw;
+
+    }
+    .cart{
+        columns: 3;
+    }
+}
+
+@media screen and (max-width:685px) {
+    .amul{
+            width: 76px;
+            /* left: -54px; */
+            position: relative;
+    }
+    .wikiamul{
+        font-size: 15px;
+        width: 75vw;
+    }
+    .heading{
+        font-size: 30px;
+    }
+    .cart{
+        display: flex;
+        overflow: scroll;
+        margin-left: 20px;
+    }
+    .choco{
+        width: 15vw;
+        height: 8vh;
+        border-radius: 73px
+    }
+    #one{
+        float: left;
+    }
+    .image{
+        width: 57vw;
+        position: relative;
+        left: 38vw;
+    }
+    .amul{
+        left: 0vw;
+        height: 30vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    nav ul li{
+        display:none;
+    }
+    .login{
+        left: 6vw;
+        width: 12vw;
+    }
+    .btn{
+        margin-left: 8px;
+        height: 20px;
+    }
+    .search{
+        margin-left: 60px;
+        height: 22px;
+    }
+    .blue{
+        display: grid;
+    }
+    
+    
+}
+

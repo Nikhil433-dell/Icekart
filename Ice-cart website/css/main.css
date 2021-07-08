@@ -1,0 +1,9 @@
+.main{
+    min-height: calc(100vh - 8vh - 80px);
+
+}
+.photo{
+    margin: auto;
+    height: 30px;
+}
+

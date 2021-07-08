@@ -1,0 +1,62 @@
+body{  
+    margin: 0;  
+    padding: 0;  
+    font-family: 'Arial';  
+    background-image: url("/img/mac.jpeg");
+    background-repeat: no-repeat;
+}  
+.login{  
+        width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background: transparent;  
+        border-radius: 15px ;  
+          
+}  
+h2{  
+    text-align: center;  
+    color: black;  
+    padding: 20px;  
+}  
+label{  
+    color: black;  
+    font-size: 17px;  
+}  
+#Uname{  
+    width: 371px;
+    height: 36px; 
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Pass{  
+    width: 371px;
+    height: 36px; 
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+.btn{  
+    width: 328px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: cyan;  
+    margin-left: 28px;
+    margin-top: 2vw;
+  
+  
+}  
+span{  
+    color: white;  
+    font-size: 17px;  
+}  
+a{  
+    text-decoration: none;
+    color: black;
+}  
+

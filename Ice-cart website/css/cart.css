@@ -1,0 +1,46 @@
+body{
+    background-color: #4cacff;
+}
+img{
+    width: 12vw;
+    position: relative;
+    left: 15vw;
+    bottom: 50vh;
+}
+p{
+    font-family: cursive;
+    font-size: 21px;
+    position: relative;
+    left: 15vw;
+    bottom: 51vh; width: 70vw;
+}
+label{
+    position: relative;
+    left: 15vw;
+    bottom: 52vh;
+    font-size: 25px;
+}
+input{
+    position: relative;
+    left: 15vw;
+    bottom: 52vh;
+    font-size: 25px;
+}
+
+a{
+    position: relative;
+    bottom: 42vh;
+    left: -6vw; text-decoration: none;
+    color: black;
+    background-color: aquamarine;
+    padding: 17px;
+    border-radius: 51px; 
+    border: 2px solid black; 
+    font-family: cursive
+}
+
+@media screen and (max-width:400px) {
+    a{
+        left: 0vw;
+    }
+}
